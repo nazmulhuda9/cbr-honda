@@ -10,6 +10,7 @@ body{
 .font-color{
 color: #E76F51;
 }
+
 .gray-image img{
     filter: grayscale(1);
 }
