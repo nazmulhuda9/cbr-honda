@@ -4,3 +4,12 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.smaller-font{
+    font-size:smaller;
+}
+.font-color{
+color: #E76F51;
+}
+.gray-image img{
+    filter: grayscale(1);
+}
