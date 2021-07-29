@@ -13,3 +13,18 @@ color: #E76F51;
 .gray-image img{
     filter: grayscale(1);
 }
+.fa-star.filled{
+    color: #E76F51;
+    margin: 7px;
+}
+.img-size img{
+    width: 50%;
+    display:grid;
+    justify-content: center;
+    align-items: center;
+}
+.img-circle img{
+    border-radius: 50%;
+    width: 134px;
+    height: 135px;
+}
